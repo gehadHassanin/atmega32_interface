@@ -27,8 +27,10 @@ typedef enum {
 #define OK  1
 #define NOK 0
 
-#define NULL 0
+#define IDEL   (1)
+#define BUSY   (0)
 
+#define NULL 0
 #define _4_BITS   (4)
 
 #endif // STD_TYPES_H_INCLUDED

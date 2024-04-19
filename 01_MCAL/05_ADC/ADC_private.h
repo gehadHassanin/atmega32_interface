@@ -80,9 +80,6 @@
 #define ADC_AUTO_TRIGGER_MASK     (0b00011111)
 #define ADC_CHANNEL_MASK          (0b11100000)
 
-#define IDEL   (1)
-#define BUSY   (0)
-
 #define ADC_SINGLE_CHANNEL   (0)
 #define ADC_CHAIN_CHANNEL    (1)
 
